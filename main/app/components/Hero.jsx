@@ -9,15 +9,15 @@ export default function Hero() {
                 </div>
 
                 <div className="lg:col-span-3">
-                    <h1 className="block text-3xl font-bold text-gray-800 sm:text-4xl md:text-5xl lg:text-6xl dark:text-white">
+                    <h1 className="block text-lg font-bold text-gray-800 sm:text-4xl md:text-5xl lg:text-6xl dark:text-white">
                         Welcome to EduScrape
                     </h1>
 
-                    <p className="mt-1 text-sm font-bold text-blue-600 dark:text-gray-400">
+                    <p className="mt-1 text-xs font-bold text-blue-600 dark:text-gray-400">
                         Your Ultimate Destination for Web Scraping Education
                     </p>
                     <p className="mt-3 text-md text-gray-800 dark:text-gray-400">
-                        At EduScrape, we believe in empowering individuals with the knowledge and skills to unlock the vast potential of web scraping. Whether you're a beginner eager to dip your toes into the world of data extraction or an expert looking to fine-tune your techniques, we have something for everyone.
+                        At EduScrape, we believe in empowering individuals with the knowledge and skills to unlock the vast potential of web scraping. Whether you&apos;re a beginner eager to dip your toes into the world of data extraction or an expert looking to fine-tune your techniques, we have something for everyone.
                     </p>
 
                     <div className="mt-5 lg:mt-8 flex flex-col items-center gap-2 sm:flex-row sm:gap-3">
